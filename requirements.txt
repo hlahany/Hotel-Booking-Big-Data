@@ -1,0 +1,10 @@
+catboost
+country_converter
+folium
+lightgbm
+matplotlib
+plotly
+scikit-learn
+xgboost
+pandas
+pycountry
