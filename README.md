@@ -25,6 +25,7 @@ Hotel Cancellation Prediction with Machine Learning
 
 ![](Graphs/cancelled_vs_not_cancelled.png)
 
+![](Graphs/cancelled_vs_not_cancelled_pie.png)
 
 ### First Observation:
 
